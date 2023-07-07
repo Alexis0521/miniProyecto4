@@ -1,0 +1,3 @@
+12324;orlando;rengifo;padilla;valle;univalle;21/03/2000;23/09/2001;13/02/2009;No Socio;Acumulado;12345678
+1029220626;orlando ;rengifo;padilla;valle;univalle;21/09/2005;10/02/2001;10/06/1999;Socio;Fijo;4662649
+10403241;Camila andrea;rengifo mejia;bogota;confacauca;wow;21/03/2005;23/05/2004;23/02/2001;Socio;Fijo;4662649

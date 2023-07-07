@@ -1,0 +1,10 @@
+Nit: 1234
+Razón Social: 222
+Teléfono: 3109994
+Dirección: colombia
+Representante Legal: desconocido
+Correo de Contacto: gmail.com
+ARL Código: 234
+Caja de Compensación Código: 222
+Salario Mínimo Legal Vigente: 333.0
+Auxilio de Transporte: 222.0
